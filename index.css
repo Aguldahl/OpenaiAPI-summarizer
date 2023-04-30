@@ -1,0 +1,51 @@
+.center {
+    text-align: center;
+}
+
+.artikkel-text {
+    display: flex;
+    justify-content: center;
+}
+.artikkel-text p {
+    width: 70%;
+}
+
+.open-ai-result-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.open-ai-result-text p {
+    text-align: center;
+}
+
+.open-ai-result-text {
+    justify-content: center;
+    border: 3px solid;
+    border-radius: 10px;
+    width: 70%;
+}
+
+.artikkel-multiple-choice {
+    justify-content: center;
+    width: 80%;
+}
+
+.artikkel-multiple-choice p {
+    display: flex;
+    border: 3px solid;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+
+
+
+

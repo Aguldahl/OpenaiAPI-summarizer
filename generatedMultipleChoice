@@ -1,0 +1,21 @@
+{
+    "question": "Hvorfor har klovner en spesiell betydning for Svalbard?",
+    "options": [
+        {
+            "text": "A) Klovner har en spesiell betydning for Svalbard fordi de er underholdere.",
+            "correct": false
+        },
+        {
+            "text": "B) Klovner har en spesiell betydning for Svalbard fordi de er kulturelle brobyggere og samfunnsengasjerte akt\u00f8rer.",
+            "correct": false
+        },
+        {
+            "text": "C) Klovner har en spesiell betydning for Svalbard fordi de formidler historier og budskap som krysser spr\u00e5k- og kulturgrenser.",
+            "correct": false
+        },
+        {
+            "text": "D) Klovner har en spesiell betydning for Svalbard fordi de gir et unikt innblikk i et samfunn som har klart \u00e5 forene ulike kulturer og tradisjoner gjennom kunsten og kraften av humor.",
+            "correct": true
+        }
+    ]
+}
